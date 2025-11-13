@@ -1,0 +1,15 @@
+---
+title: Little White Trainer
+subtitle: Dog training classes,make dogs smarter
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Little White Trainer is a pet training App designed for pet dog lovers. Through rich training courses and professional guidance, you can cultivate smarter pet dogs and enhance the relationship between you and your pets.
+
+---

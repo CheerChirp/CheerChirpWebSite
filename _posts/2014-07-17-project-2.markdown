@@ -1,0 +1,17 @@
+---
+title: Pet Friends
+subtitle: AI pets, pet chat
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Pet Friends is a virtual pet raising and healthy companion App for pet lovers. The products provide different breeds, characters, images of pet adoption, communication and companionship functions. And support different scene switching, growth, dress up and other functions. Grow up healthy and happy with pet friends!.
+
+---
+
+

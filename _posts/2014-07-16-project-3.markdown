@@ -1,0 +1,15 @@
+---
+title: Cat Talk
+subtitle: Cat translator & Cat training
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Cat Talk is an App for cat owners to help them keep their pets. At present, the product mainly provides the daily record reminder of pet cats, cat MBTI personality test, cat training courses, cat calming audio and other functions. Our mission is to help cat owners and cats become a healthy and happy family!
+
+---
